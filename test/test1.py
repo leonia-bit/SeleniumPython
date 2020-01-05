@@ -5,6 +5,7 @@
         b. Running selenium simple test from pycharm and cli
         c. Running diff types of browsers for google.com
            with simple selenium functionality
+
 """
 
 from selenium import webdriver
